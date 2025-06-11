@@ -2,7 +2,8 @@
 🎮 Rock Paper Scissors Game – Tkinter GUI
 A fun and interactive Rock Paper Scissors game built using Python's Tkinter GUI library. This project offers a clean and responsive user interface with custom styling and dynamic result displays.
 
-📸 Preview
+📸 Preview:
+![image alt](https://github.com/shashank0852/rock_paper_scissor/blob/f8903e2d5e3b45893b6c1a8f95cb198f4b0a42de/preview.jpg)
 
 🎨 Modern UI: Dark-themed design with customized fonts and colors.
 
